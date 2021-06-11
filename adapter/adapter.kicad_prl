@@ -61,7 +61,7 @@
       38
     ],
     "visible_layers": "0043eff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 2
   },
   "meta": {
     "filename": "adapter.kicad_prl",
