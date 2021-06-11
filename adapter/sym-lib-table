@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "promicro")(type "Legacy")(uri "${KIPRJMOD}/../promicro.lib")(options "")(descr ""))
+  (lib (name "elite-C")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty/elite-C.kicad_sym")(options "")(descr ""))
+)
